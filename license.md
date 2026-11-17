@@ -193,4 +193,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Age of Empires III: Definitive Edition · Updated 2026-11-16 · Shared under the MIT License*
+*Age of Empires III: Definitive Edition · Updated 2026-11-17 · Shared under the MIT License*
